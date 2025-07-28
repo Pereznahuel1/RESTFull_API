@@ -11,5 +11,13 @@
   "description": "",
   "dependencies": {
     "express": "^5.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pereznahuel1/RESTFull_API.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pereznahuel1/RESTFull_API/issues"
+  },
+  "homepage": "https://github.com/Pereznahuel1/RESTFull_API#readme"
 }
